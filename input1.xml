@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+    <Measurement>
+        <x>
+            <max>60.00</max>
+            <value>50.00</value>
+            <min>-40.00</min>
+            <unit>mm</unit>
+        </x>
+        <y>
+            <max>3.00</max>
+            <value>0.00</value>
+            <min>-3.00</min>
+            <unit>kN</unit>
+        </y>
+        <z>
+            <max>0.00</max>
+            <value>0.00</value>
+            <min>0.00</min>
+            <unit>ms</unit>
+        </z>
+    </Measurement>
+    <Measurement>
+        <x>
+            <max>260.00</max>
+            <value>250.00</value>
+            <min>160.00</min>
+            <unit>mm</unit>
+        </x>
+        <y>
+            <max>203.00</max>
+            <value>200.00</value>
+            <min>197.00</min>
+            <unit>kN</unit>
+        </y>
+        <z>
+            <max>600000.00</max>
+            <value>400000.00</value>
+            <min>200000.00</min>
+            <unit>ms</unit>
+        </z>
+    </Measurement>
+
+</Data>
